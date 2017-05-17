@@ -96,3 +96,9 @@
 [06-May-2017 16:21:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 32
 [06-May-2017 16:21:29 America/Chicago] Fatal error: syntax error, unexpected '}'
 [06-May-2017 16:21:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:32] 
+[16-May-2017 22:28:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/nhascup/public_html/328/mypets-templating-starter/index.php on line 20
+[16-May-2017 22:29:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$f3' (T_VARIABLE) in /home/nhascup/public_html/328/mypets-templating-starter/index.php on line 30
+[16-May-2017 22:29:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$pet2' (T_VARIABLE), expecting ',' or ')' in /home/nhascup/public_html/328/mypets-templating-starter/index.php on line 31
+[16-May-2017 22:29:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$pet2' (T_VARIABLE), expecting ',' or ')' in /home/nhascup/public_html/328/mypets-templating-starter/index.php on line 31
+[16-May-2017 22:29:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$pet2' (T_VARIABLE), expecting ',' or ')' in /home/nhascup/public_html/328/mypets-templating-starter/index.php on line 31
+[16-May-2017 22:30:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$pet2' (T_VARIABLE), expecting ',' or ')' in /home/nhascup/public_html/328/mypets-templating-starter/index.php on line 31
